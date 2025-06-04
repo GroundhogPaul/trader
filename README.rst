@@ -23,3 +23,6 @@ License
 -------
 
 ``trader`` is offered under the Apache 2 license.
+
+the key algo is at:
+/trader/strategy/brother2/calc_signal(
